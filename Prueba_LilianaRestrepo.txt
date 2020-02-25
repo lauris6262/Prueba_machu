@@ -1,0 +1,11 @@
+1)	Clone el repositorio lau6262 o lauris6262 (el asignado) que se encuentra en la siguiente ruta:
+https://github.com/lau6262/capacitacion
+https://github.com/lau6262/PruebasCapa
+https://github.com/lauris6262/Git_Practice
+https://github.com/lauris6262/Prueba_machu
+
+2)	Cree una rama con la siguiente estructura feature/SuPrimerNombre, y cree una nueva rama llamada develop
+3)	Situado en la rama del punto anterior, cree un archivo .txt en el directorio local de su repositorio, que se llame de la siguiente forma: Prueba_NombreCompleto.txt y agregue un texto de varias líneas
+4)	Lleve el archivo creado hasta el repositorio remoto, en el momento de commit, ingrese un mensaje que diga “Practica_NombreCompleto_Fecha”
+5)	Realice un pull request en GitHub de su rama feature/SuPrimerNombre a la rama develop, para la aprobación del pull request deben de informar al dueño del repositorio para aprobar
+6)	Realice un pull request en GitHub de la rama develop a la rama Master, para la aprobación del pull request deben de informar al dueño del repositorio para aprobar
